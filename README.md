@@ -69,16 +69,11 @@ The results: Using a bulleted list, describe the accuracy score, the precision s
 
 A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
 
-# Result
-Machine Learning Model :
+# Overview of the Analysis: 
 
-Accuracy: 99%
-Precision: 92%
-Recall: 97%
+The purpose of this analysis was to evaluate a machine learning model's effectiveness in predicting binary outcomes. Specifically, we aimed to assess key performance metrics, including accuracy, precision, and recall, to determine the model's suitability for the company's needs.
 
-Overview of the Analysis: The purpose of this analysis was to evaluate a machine learning model's effectiveness in predicting binary outcomes. Specifically, we aimed to assess key performance metrics, including accuracy, precision, and recall, to determine the model's suitability for the company's needs.
-
-The Results:
+# The Results:
 
 Accuracy Score: 0.99
 
@@ -94,6 +89,9 @@ Class 0: 0.99
 
 Class 1: 0.94
 
-Summary: The machine learning model performed exceptionally well, with an overall accuracy score of 0.99. The precision and recall scores were impressive, particularly for Class 0, which achieved near-perfect precision and recall. Class 1 also performed well, with a precision score of 0.84 and a recall score of 0.94, indicating a moderate rate of false positives.
+# Summary: 
+The machine learning model performed exceptionally well, with an overall accuracy score of 0.99. The precision and recall scores were impressive, particularly for Class 0, which achieved near-perfect precision and recall. Class 1 also performed well, with a precision score of 0.84 and a recall score of 0.94, indicating a moderate rate of false positives.
 
-Justification for Recommendation: Considering the high accuracy, precision, and recall scores, I recommend deploying this model for the company's needs. The model's ability to accurately classify instances and its strong performance metrics make it a reliable choice. However, it's advisable to monitor the performance on Class 1 and consider further tuning to improve precision if necessary.
+# Recommendation:
+
+Considering the high accuracy, precision, and recall scores, I recommend deploying this model for the company's needs. The model's ability to accurately classify instances and its strong performance metrics make it a reliable choice. However, it's advisable to monitor the performance on Class 1 and consider further tuning to improve precision if necessary.
