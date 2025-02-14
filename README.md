@@ -90,7 +90,7 @@ Class 0: 0.99
 Class 1: 0.94
 
 # Summary: 
-The machine learning model performed exceptionally well, with an overall accuracy score of 0.99. The precision and recall scores were impressive, particularly for Class 0, which achieved near-perfect precision and recall. Class 1 also performed well, with a precision score of 0.84 and a recall score of 0.94, indicating a moderate rate of false positives.
+The machine learning model performed exceptionally well, with an overall accuracy score of 0.99. The precision and recall scores were impressive, particularly for Class 0, which achieved near-perfect precision and recall. Class 1 also performed well, with a precision score of 0.84 and a recall score of 0.94.
 
 # Recommendation:
 
